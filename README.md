@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   
-  <!— APIs —>
+
   <h3>🌐 APIs</h3>
   <div>
     <img src="https://img.shields.io/badge/naver maps-03C75A?style=for-the-badge&logo=naver&logoColor=white">
@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/kakao address API-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
   </div>
   
-  <!— Tools —>
+
   <h3>🔧 Tools</h3>
   <div>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white">
