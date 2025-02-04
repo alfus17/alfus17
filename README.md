@@ -104,21 +104,52 @@
 <table>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/alfus17/MatTamjeong"> <img src="https://github.com/user-attachments/assets/fe6eeb39-4c2c-4875-bad4-d5231f1608f5")
-></a>
-      <h3>📸 <a href="https://github.com/alfus17/MatTamjeong">여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템</a>  </h3>
-      <p> 여러가지 플랫폼의 맛집 리뷰들을 모아 한눈에 플랫폼 별로 비교하여 볼수 있는 웹사이트 </p>
-    </td>
-    <td align="center" width="50%">
-     <a href="https://github.com/alfus17/MediViewer"> <img src="https://github.com/user-attachments/assets/44d313aa-c1a4-4415-b3a9-35c4007661f6"></a>
-      <h3>🧩 <a href="https://github.com/alfus17/MediViewer">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
-      <p> DICOM 데이터를 Cornerstone API를 사용하여 실시간으로 렌더링 하여 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 하는 웹사이트</p>
+    <div align="left">
+      <h3>📸 <a href="https://github.com/alfus17/MatTamjeong">여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템</a></h3>
+           <a href="https://github.com/alfus17/MatTamjeong"> <img src="https://github.com/user-attachments/assets/fe6eeb39-4c2c-4875-bad4-d5231f1608f5")></a>
+        <p> 개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
+          개발 인원  : 3인<br><br>
+          담당역할 <br>
+          백엔드 (90%) &nbsp:&nbsp 로그인 및 회원가입,  메인페이지 기능, 상세페이지<br>
+          프론트엔드 (80%) &nbsp:&nbsp 지도컴포넌트 및 API호출부분, 페이징처리 <br>
+          서비스 기획 및 방향성 설정 (80%)<br>
+          프로젝트 관리 및 스케쥴링 (100%)
+          <br><br>
+          개발 환경 <br>
+          언어 &nbsp: &nbspJAVA (JDK 17)<br>
+          프레임 워크 &nbsp:&nbsp Spring Boot, React<br>
+          DB &nbsp:&nbsp Oracle DB<br>
+          API &nbsp:&nbsp NaverMap/Restful API
+          </p>
+        </div>
     </td>
   </tr>
+ <tr>
+    <td align="center" width="50%">
+    <div align="left">
+      <h3>🧩 <a href="https://github.com/alfus17/MediViewer">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
+     <a href="https://github.com/alfus17/MediViewer"> <img src="https://github.com/user-attachments/assets/44d313aa-c1a4-4415-b3a9-35c4007661f6"></a>
+        <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
+          개발 인원  : 5인<br><br>
+          담당역할 <br>
+          백엔드 (70%) &nbsp:&nbsp RESTAPI구성, DB데이터 분석 , sql문 최적화<br>
+          서비스 기획 및 방향성 설정 (90%)<br>
+          프로젝트 관리 및 스케쥴링 (100%)
+          <br><br>
+          개발 환경 <br>
+          언어 &nbsp: &nbspJAVA (JDK 17)<br>
+          프레임 워크 &nbsp:&nbsp Spring Boot, THymeLeaf<br>
+          DB &nbsp:&nbsp Oracle DB<br>
+          API &nbsp:&nbsp NaverMap/Restful API
+          </p>
+        </div> 
+        </div>  
+    </td>
+ </tr>
 </table>
 
 
-—
+---
 
 <h3>📊 전체 언어 비율</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfus17&layout=compact&theme=tokyonight" width="500" alt="전체 프로젝트 언어 비율" />
