@@ -99,20 +99,18 @@
     <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </div>
 
-  —
-
-
 
 ## 💻 팀 프로젝트
 <table>
   <tr>
     <td align="center" width="50%">
-     <a href="https://github.com/alfus17/MatTamjeong"> <img src="https://private-user-images.githubusercontent.com/84339929/406358647-68cb0cae-782e-416d-bfb5-38ec32b86227.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg2NjcyMjUsIm5iZiI6MTczODY2NjkyNSwicGF0aCI6Ii84NDMzOTkyOS80MDYzNTg2NDctNjhjYjBjYWUtNzgyZS00MTZkLWJmYjUtMzhlYzMyYjg2MjI3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA0VDExMDIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2YjA2ZWZjMThkODA3ODBmYjkzNGVlODYxNmEyZTFkMjNhMmI2M2EwZmM0MDc5YmNiN2UwYWM3ZmM1MzljMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sqcZQoczUuk_XqzRGGzRo8q3qz4wmDAKKbbybnOcJew"></a>
+     <a href="https://github.com/alfus17/MatTamjeong"> <img src="https://github.com/user-attachments/assets/fe6eeb39-4c2c-4875-bad4-d5231f1608f5")
+></a>
       <h3>📸 <a href="https://github.com/alfus17/MatTamjeong">여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템</a>  </h3>
       <p> 여러가지 플랫폼의 맛집 리뷰들을 모아 한눈에 플랫폼 별로 비교하여 볼수 있는 웹사이트 </p>
     </td>
     <td align="center" width="50%">
-     <a href="https://github.com/alfus17/MediViewer"> <img src="https://private-user-images.githubusercontent.com/84339929/408869120-241c4847-5dac-4c20-b9f5-dcb23e2fb2ea.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg2NjcyNzQsIm5iZiI6MTczODY2Njk3NCwicGF0aCI6Ii84NDMzOTkyOS80MDg4NjkxMjAtMjQxYzQ4NDctNWRhYy00YzIwLWI5ZjUtZGNiMjNlMmZiMmVhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA0VDExMDI1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMjczMDhkMmY2YmU4NjZlOGE4NmFjM2Q2N2FlZDg1MjA5MmQzNDYwZjRjZTE0ZWNkOWRmM2UyZWEwMjU1Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iK9dofACcyxj-ovqlrrthnOUkCts1KkK9ehXUHtobK0"></a>
+     <a href="https://github.com/alfus17/MediViewer"> <img src="https://github.com/user-attachments/assets/44d313aa-c1a4-4415-b3a9-35c4007661f6"></a>
       <h3>🧩 <a href="https://github.com/alfus17/MediViewer">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
       <p> DICOM 데이터를 Cornerstone API를 사용하여 실시간으로 렌더링 하여 의료 영상을 시각화하며, Spring Boot와 Thymeleaf를 통해 CT 및 X-ray 뷰어와 보고서 작성 하는 웹사이트</p>
     </td>
