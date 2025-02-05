@@ -5,8 +5,7 @@
 <div>👨 장광진 | 함께 성장하는 개발자</div>
 <div>✉️ alfus54@gmail.com</div>
 <div>🎓 한림대학교 졸업</div>
-<div>🏆 취업 추천서 보유 (훈련기관 출석우수자)</div>
-<div>🎤 2024년 KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발)</div>
+<div>🎤 2024년 KOSA KDT통합프로젝트발표회 참여(팝업스토어 안내 웹사이트 개발)</div>
 
 ---
 
@@ -31,6 +30,7 @@
 <li>React와 JavaScript를 활용해 동적인 화면 구성과 효율적인 상태 관리를 구현</li>
 <li>Oracle DB를 활용해 데이터 모델링 및 쿼리 최적화, 데이터 연동 기능을 구현</li>
 <li>Java와 함께 프론트엔드 및 백엔드 기술을 통합하며 풀스택 개발의 기초</li>
+<li>🏆 취업 추천서 보유 (훈련기관 출석우수자)</li>
 
 ---
   <div align="center">
@@ -42,13 +42,7 @@
 </div>
 
 
-  <!-- Database -->
- <h3>
-    <h3>🗂️ Database</h3>
-    <div>
-      <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    </div>
-  </h3>
+
   <!-- Server -->
   <h3>🖥️ Backend</h3>
   <div>
@@ -80,8 +74,15 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
+    <!-- Database -->
+ <h3>
+    <h3>🗂️ Database</h3>
+    <div>
+      <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    </div>
+  </h3>
   
-
+<!-- API -->
   <h3>🌐 APIs</h3>
   <div>
     <img src="https://img.shields.io/badge/naver maps-03C75A?style=for-the-badge&logo=naver&logoColor=white">
@@ -100,14 +101,15 @@
   </div>
 
 
-## 💻 팀 프로젝트
+## 💻 수행 프로젝트
 <table>
   <tr>
     <td align="center" width="50%">
     <div align="left">
-      <h3>📸 <a href="https://github.com/alfus17/MatTamjeong">여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템</a></h3>
+      <h3>📸 <a href="https://github.com/alfus17/MatTamjeong">맛탐정</a></h3>
            <a href="https://github.com/alfus17/MatTamjeong"> <img src="https://github.com/user-attachments/assets/fe6eeb39-4c2c-4875-bad4-d5231f1608f5")></a>
         <p> 개발 기간 : 2024.08.24 ~ 2024.09.30 <br>
+          프로젝트 목표 : 여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템<br>
           개발 인원  : 3인<br><br>
           담당역할 <br>
           백엔드 (90%) &nbsp:&nbsp 로그인 및 회원가입,  메인페이지 기능, 상세페이지<br>
@@ -127,9 +129,10 @@
  <tr>
     <td align="center" width="50%">
     <div align="left">
-      <h3>🧩 <a href="https://github.com/alfus17/MediViewer">의료영상 API연동, 의료이미지 시각화한 프로젝트</a></h3>
+      <h3>🧩 <a href="https://github.com/alfus17/MediViewer">매디뷰어</a></h3>
      <a href="https://github.com/alfus17/MediViewer"> <img src="https://github.com/user-attachments/assets/44d313aa-c1a4-4415-b3a9-35c4007661f6"></a>
         <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
+          프로젝트 목표 : 여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템<br>
           개발 인원  : 5인<br><br>
           담당역할 <br>
           백엔드 (70%) &nbsp:&nbsp RESTAPI구성, DB데이터 분석 , sql문 최적화<br>
