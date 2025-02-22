@@ -132,7 +132,7 @@
       <h3>🧩 <a href="https://github.com/alfus17/MediViewer">매디뷰어</a></h3>
      <a href="https://github.com/alfus17/MediViewer"> <img src="https://github.com/user-attachments/assets/44d313aa-c1a4-4415-b3a9-35c4007661f6"></a>
         <p> 개발 기간 : 2024. 10. 07 ~ 2024.11.15 <br>
-          프로젝트 목표 : 여러 플랫폼의 리뷰들을 한눈에 비교할수 있도록 통합리뷰시스템<br>
+          프로젝트 목표 : 의료용 디지털 영상 및 통신 표준 DICOM 기반의 이미지 뷰어 웹 사이트 제작<br>
           개발 인원  : 5인<br><br>
           담당역할 <br>
           백엔드 (70%) &nbsp:&nbsp RESTAPI구성, DB데이터 분석 , sql문 최적화<br>
